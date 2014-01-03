@@ -1,0 +1,9 @@
+Package: com.jumhyn.musicalswitcher
+Name: musicalswitcher
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Freddy Kellison-Linn
+Author: Freddy Kellison-Linn
+Section: Tweaks
