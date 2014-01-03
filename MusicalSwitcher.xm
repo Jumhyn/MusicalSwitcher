@@ -6,12 +6,6 @@
 @interface SBAppSliderScrollView : UIScrollView
 @end
 
-@interface SBAppSliderScrollingViewController {
-	   SBAppSliderScrollView *_scrollView;
-}
--(float)_distanceBetweenCenters;
-@end
-
 %hook SBAppSliderScrollingViewController
 
 - (void)scrollViewWillEndDragging:(id)arg1 withVelocity:(struct CGPoint)arg2 targetContentOffset:(struct CGPoint *)arg3 {
