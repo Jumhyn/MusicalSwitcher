@@ -1,9 +1,10 @@
 Package: com.jumhyn.musicalswitcher
-Name: musicalswitcher
+Name: MusicalSwitcher
+Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Play your switcher like a piano!
 Maintainer: Freddy Kellison-Linn
 Author: Freddy Kellison-Linn
 Section: Tweaks
